@@ -20,7 +20,7 @@ Final outcome are as follows:
 - Public Leaderboard: 34/85 (MAP@10: 0.47699 - highest in the competition: 0.51098)
 - Private Leaderboard: 34/85 (MAP@10: 0.47727 - highest in the competition: 0.50966)
 
-Please note that many of the implemented techniques were forked and modified from the competition [repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi).
+Please note that many of the implemented techniques were forked and modified from the competition [repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi). I would also like to thank [Alessandro Sanvito](http://github.com/Alexdruso), given that my discussions with him led to very fruitful improvements on the models. 
 
 ## Looking forward
 Further experiment with neural recommenders is to be done, for learning sake (the competition is already over). Please come back later! 
