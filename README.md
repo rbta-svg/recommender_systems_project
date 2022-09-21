@@ -8,7 +8,7 @@ Each TV show (for instance, "The Big Bang Theory") can be composed by several ep
 
 The datasets includes around 6.2M interactions, 13k users, 18k items (TV shows) and four feature categories: 8 genres, 213 channels, 113 subgenres and 358k events (episode ids).
 The training-test split is done via random holdout, 85% training, 15% test.
-The goal is to recommend a list of 10 potentially relevant items for each user. MAP@10 is used for evaluation. You can use any kind of recommender algorithm you wish e.g., collaborative-filtering, content-based, hybrid, etc. written in Python.
+The goal is to recommend a list of 10 potentially relevant items for each user. MAP@10 is used for evaluation. Any kind of python-written recommender system was allowed.
 
 ## Solution
 Several techniques have been tested, such as RP3 Beta, Matrix Factorization, SLIM, also merged through various methods to create hybrid models. Hyperparameter optimization techniques were also used to find the optimal parameters.
@@ -21,6 +21,9 @@ Final outcome are as follows:
 - Private Leaderboard: 34/85 (MAP@10: 0.47727 - highest in the competition:0.50966)
 
 Please note that many of the implemented techniques were forked and modified from the competition [repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi).
+
+## Looking forward
+Further experiment with neural recommenders is to be done, for learning sake (the competition is already over). Please come back later! 
 
 
 
