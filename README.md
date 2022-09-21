@@ -18,7 +18,7 @@ The best submission score was obtained using a SLIM ElasticNet, with the hyperpa
 Final outcome are as follows:
 - Baselines: 12/12 passed
 - Public Leaderboard: 34/85 (MAP@10: 0.47699 - highest in the competition: 0.51098)
-- Private Leaderboard: 34/85 (MAP@10: 0.47727 - highest in the competition:0.50966)
+- Private Leaderboard: 34/85 (MAP@10: 0.47727 - highest in the competition: 0.50966)
 
 Please note that many of the implemented techniques were forked and modified from the competition [repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi).
 
